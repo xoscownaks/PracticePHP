@@ -1,0 +1,14 @@
+#writespace{
+  border:1px Solid Black;
+  margin:0;
+  width:500px;
+  height:600px;
+}
+#writespace label {
+  display:block;
+
+}
+.ff>input:nth-child(1){
+  width:500px;
+  height:300px;
+}
